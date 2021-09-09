@@ -1,0 +1,50 @@
+#container{
+    width: 650px;
+    height: 400px;
+    margin: 5PX;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    margin-bottom: 20px;
+}
+#body{
+    width: 100%;
+    height: 225px;
+    border: 2px solid black;
+    margin-top: 0px;
+    
+}
+
+#image{
+    width: 35%;
+    height: 250px;
+
+
+    float: left;
+
+}
+#sidebar{
+    width: 65%;
+    height: 225px;
+    
+    float: left;
+
+    
+}
+#image img{
+    width: 70%;
+    height: 70%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 50%;
+}
+#sidebar p{
+    margin-top: 5%;
+    font-family:"calibri"; 
+}
+#sidebar span{
+    background-color: darkgray;
+}
